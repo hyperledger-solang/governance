@@ -1,0 +1,27 @@
+teams:
+  - name: solang-admins
+    maintainers:
+      - seanyoung
+    members:
+      - xermicus
+  - name: solang-aqd-committers
+    maintainers:
+      - tareknaser
+  - name: solang-committers
+    maintainers:
+      - seanyoung
+    members:
+      - LucasSte
+      - salaheldinsoliman
+      - xermicus
+  - name: solang-contributors
+    maintainers:
+      - LucasSte
+    members:
+      - salaheldinsoliman
+      - seanyoung
+      - tareknaser
+      - xermicus
+  - name: solang-triage
+    maintainers:
+      - seanyoung
