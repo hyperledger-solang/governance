@@ -1,27 +1,43 @@
 teams:
+  - name: lf-staff
+    maintainers:
+      - ryjones
   - name: solang-admins
     maintainers:
-      - seanyoung
+      - ryjones
     members:
+      - seanyoung
       - xermicus
   - name: solang-aqd-committers
     maintainers:
+      - ryjones
+    members:
       - tareknaser
   - name: solang-committers
     maintainers:
-      - seanyoung
+      - ryjones
     members:
+      - seanyoung
       - LucasSte
       - salaheldinsoliman
       - xermicus
   - name: solang-contributors
     maintainers:
-      - LucasSte
+      - ryjones
     members:
+      - LucasSte
       - salaheldinsoliman
       - seanyoung
       - tareknaser
       - xermicus
   - name: solang-triage
     maintainers:
+      - ryjones
+    members:
       - seanyoung
+repositories:
+  - name: governance
+    teams:
+      lf-staff: admin
+      solang-admins: write
+    visibility: public
