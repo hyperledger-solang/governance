@@ -4,34 +4,29 @@ teams:
       - ryjones
   - name: solang-admins
     maintainers:
-      - ryjones
-    members:
       - seanyoung
+    members:
       - xermicus
   - name: solang-aqd-committers
     maintainers:
       - tareknaser
   - name: solang-committers
     maintainers:
-      - ryjones
-    members:
       - seanyoung
+    members:
       - LucasSte
       - salaheldinsoliman
       - xermicus
   - name: solang-contributors
     maintainers:
-      - ryjones
+      - seanyoung
     members:
       - LucasSte
       - salaheldinsoliman
-      - seanyoung
       - tareknaser
       - xermicus
   - name: solang-triage
     maintainers:
-      - ryjones
-    members:
       - seanyoung
 repositories:
   - name: governance
