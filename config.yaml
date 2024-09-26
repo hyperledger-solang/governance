@@ -58,3 +58,16 @@ repositories:
       solang-committers: maintain
       solang-contributors: read
     visibility: public
+  - name: solang
+    teams:
+      solang-admins: admin
+      solang-committers: maintain
+      solang-contributors: read
+      solang-triage: triage
+    visibility: public
+  - name: solang-llvm
+    teams:
+      solang-admins: admin
+      solang-committers: maintain
+      solang-contributors: read
+    visibility: public
