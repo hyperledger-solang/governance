@@ -10,8 +10,6 @@ teams:
       - xermicus
   - name: solang-aqd-committers
     maintainers:
-      - ryjones
-    members:
       - tareknaser
   - name: solang-committers
     maintainers:
@@ -40,4 +38,23 @@ repositories:
     teams:
       lf-staff: admin
       solang-admins: write
+    visibility: public
+  - name: homebrew-solang
+    teams:
+      solang-admins: admin
+      solang-committers: maintain
+      solang-contributors: read
+    visibility: public
+  - name: solang-aqd
+    teams:
+      solang-admins: admin
+      solang-aqd-committers: maintain
+      solang-committers: maintain
+      solang-contributors: read
+    visibility: public
+  - name: solang-substrate-ci
+    teams:
+      solang-admins: admin
+      solang-committers: maintain
+      solang-contributors: read
     visibility: public
