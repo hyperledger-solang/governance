@@ -66,3 +66,9 @@ repositories:
       solang-committers: maintain
       solang-contributors: read
     visibility: public
+  - name: solang-playground
+    teams:
+      solang-admins: admin
+      solang-committers: maintain
+      solang-contributors: read
+    visibility: public
