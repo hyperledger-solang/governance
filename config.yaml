@@ -29,6 +29,11 @@ teams:
     maintainers:
       - seanyoung
 repositories:
+  - name: .github
+    teams:
+      lf-staff: maintain
+      solang-admins: maintain
+    visibility: public
   - name: governance
     teams:
       lf-staff: admin
