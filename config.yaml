@@ -16,6 +16,8 @@ teams:
     members:
       - LucasSte
       - salaheldinsoliman
+      - mohamedbasuony
+      - abdallah-abdelnaby
       - xermicus
   - name: solang-contributors
     maintainers:
@@ -23,6 +25,8 @@ teams:
     members:
       - LucasSte
       - salaheldinsoliman
+      - mohamedbasuony
+      - abdallah-abdelnaby
       - tareknaser
       - xermicus
   - name: solang-triage
